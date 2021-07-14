@@ -1,0 +1,31 @@
+{
+    "name": "apocalypse",
+    "displayName": "Apocalypse",
+    "description": "Apocalypse dark theme for VS Code",
+    "version": "0.0.1",
+    "publisher": "ffs97",
+    "author": {
+        "name": "Gurpreet Singh"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Apocalypse",
+                "uiTheme": "vs-dark",
+                "path": "./themes/apocalypse-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "apocalypse",
+        "dark",
+        "theme",
+        "themes"
+    ]
+}
